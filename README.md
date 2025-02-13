@@ -147,8 +147,6 @@ Array
 
 Code:
 ```
-	$Symo  = New PHP_Fronius();
-	$Symo->Invertor_IP = '192.168.1.100';
 	$Meter = $Symo->GetMeterRealtimeData(2,0);
  ```
 Result:
