@@ -18,7 +18,7 @@ Hopefully they will not take my project down.
 - Create a new instance of the PHP_Fronius class
 - Set the IP address of the datamanager
 - Call the appropriate function
-- - For details about input parameters please check function description
+- For details about input parameters please check function description
 
 # How to get the most useful information
 # Inverter info
